@@ -1,4 +1,4 @@
-# pre-weekend-assignment-12.18.15
-In-Class Code-Along Lecture
+# pre-weekend-assignment
+In-Class Code-Along Lecture - 12.18.15
 
 Practice using jQuery and Ajax calls.
